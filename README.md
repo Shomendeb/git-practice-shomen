@@ -11,3 +11,8 @@ This repository serves as a practical demonstration of core Git version control 
 ## Features
 - **Calculator Utilities:** Includes basic arithmetic functions (`add`, `subtract`, `Multiply`).
 - **Documentation:** Structured project layout following clean development practices.
+
+## How to Run the Project
+To run the main application and view the calculator outputs, execute the following command in your terminal:
+```bash
+python src/main.py
